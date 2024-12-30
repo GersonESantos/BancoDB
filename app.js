@@ -40,4 +40,4 @@ async function criarEPopularTabelaUsuarios(nome, sobrenome, password) {
 }
 
 // Chamando a função com exemplo de dados
-criarEPopularTabelaUsuarios('John', 'Doe', '1234password');
+criarEPopularTabelaUsuarios('Pedro', 'Casanova', '567password');
